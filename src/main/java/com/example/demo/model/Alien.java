@@ -11,7 +11,6 @@ public class Alien {
 	private int id;
 	private String name;
 	private int points;
-	private int age;
 	
 	public Alien() {
 		// TODO Auto-generated constructor stub
